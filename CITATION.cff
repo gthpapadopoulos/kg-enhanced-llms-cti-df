@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this list, please cite the paper and this repository."
+title: "Studies of the meta-analysis 'Knowledge-Graph-Enhanced LLMs for Cyber Threat Intelligence and Digital Forensics'"
+type: dataset
+authors:
+  - {family-names: Sardianos, given-names: Christos}
+  - {family-names: Efthymiou, given-names: Vasilis}
+  - {family-names: Varlamis, given-names: Iraklis}
+  - {family-names: Lagkas, given-names: Thomas}
+  - {family-names: Sarigiannidis, given-names: Panagiotis}
+  - {family-names: Papadopoulos, given-names: Georgios Th.}
+version: "1.0"
+date-released: "2026-11-10"
+license: CC-BY-4.0
+repository-code: "https://github.com/gthpapadopoulos/kg-enhanced-llms-cti-df"
+url: "https://gthpapadopoulos.github.io/kg-enhanced-llms-cti-df/"
+keywords: [knowledge graphs, large language models, cyber threat intelligence, digital forensics, meta-analysis]
